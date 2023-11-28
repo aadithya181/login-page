@@ -15,14 +15,14 @@
     margin-top: 30px;
 }
 .text{
-    color:rgb(27, 141, 175);
+    color:rgb(13, 88, 110);
     font-size: 50px;
     font-weight: 700;
 }
 .underline{
     width:61px;
     height:6px;
-    background:#3c009d;
+    background:#9d007b;
     border-radius: 9px;
 }
 .inputs{
